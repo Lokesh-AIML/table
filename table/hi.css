@@ -1,0 +1,28 @@
+body{
+  background-image : url(images/blurred-spring-background-nature-with-blooming-glade-generative-ai-technology-free-photo.jpg);
+}
+.a
+{
+  align-items: center;
+  backdrop-filter : blur(5px);
+  width : 70%;
+  justify-items : center;
+  border-radius : 20px;
+  box-shadow : 0 0 20px rgba(0,0,0,0.5);
+  text-align : center;
+  padding : 20px;
+  min-width: 200px;
+  margin-top : 50px;
+  height: auto;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.b
+{
+  background-color : rgb(194, 173, 173);
+  font-weight : 20
+}
+
+
+.title{
+  border-radius: 10px;
+}
